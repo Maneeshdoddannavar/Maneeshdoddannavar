@@ -53,6 +53,17 @@ My goal is to grow as a **Software Engineer** by continuously building practical
 - 🎙️ **Smart Desktop Voice Assistant (Jarvis)** – In progress
 
 ---
+<p align="center">
+<a href="https://www.linkedin.com/in/maneesh-doddannavar-42bb543a1">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="mailto:maneeshdoddannavar@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+<a href="https://github.com/Maneeshdoddannavar">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
 
 ## 🌐 Connect With Me
 <p align="center">
